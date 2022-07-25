@@ -1,0 +1,25 @@
+{
+    "name": "Devontae Ferguson",
+    "linkedin": "https://github.com/MarkkayTavion",
+    "github": "MarkkayTavion",
+    "email": "ferguson.devontae@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React",
+        "Vue",
+        "Node",
+        "Express",
+        "Mongodb",
+        "PostgreSQL",
+        "Python",
+        "Django",
+        "Wordpress",
+        "Drupal"
+    ],
+    "Education": [
+        "General Assembly",
+        "Kent State Univerity",
+        "The Ohio State University",
+        "Stanford University"
+    ]
+}
